@@ -4,7 +4,7 @@ Project Overview: This project demonstrates data analysis techniques used to mon
 Key Skills Demonstrated:
 1. Data quality
 Working with raw data in Power Query: analyzing column quality, fixing missing values in inspection dates, and normalizing text for consistent reporting.
-Data_Cleaning_and_Profiling_PowerQuery.jpg
+
 2. Data modeling
 Building a professional semantic model: setting up geographical data categories, hiding technical keys, and creating a custom "Borough > Postcode" hierarchy.
 3. Data visualization
