@@ -7,7 +7,7 @@ Key Skills Demonstrated:
 1. Data quality
 Working with raw data in Power Query: analyzing column quality, fixing missing values in inspection dates, and normalizing text for consistent reporting.
 
-[Data_Cleaning_and_Profiling_PowerQuery](https://github.com/user-attachments/assets/c361c27c-3825-4f5c-b2e3-ba361e36630b)
+![Data_Cleaning_and_Profiling_PowerQuery](https://github.com/user-attachments/assets/81680dbc-e033-4816-a9d4-8b5808b6c803)
 
 2. Data modeling:
 Building a professional semantic model: setting up geographical data categories, hiding technical keys, and creating a custom "Borough > Postcode" hierarchy.
